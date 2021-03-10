@@ -1,5 +1,8 @@
 ENTERPRISE PRO TEAM 22 - MYSUPERMARKETSHOP
 
+Items:
+- source: includes all the source code of the project implementation.
+
 Web application built using:
 - HTML, CSS and Javascript for the front end.
 - PHP for backend that will communicate with Firebase.
