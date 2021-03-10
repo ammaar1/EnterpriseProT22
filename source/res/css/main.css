@@ -1,0 +1,11 @@
+/*
+blue: #00A6FB
+green: #5AAA95
+yellow: #F0CF65
+*/
+.navbar {
+    min-height: 80px;
+}
+.margin-top{
+    margin-top: 2em;
+}
