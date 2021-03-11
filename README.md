@@ -1,13 +1,13 @@
 ENTERPRISE PRO TEAM 22 - MYSUPERMARKETSHOP
 
-Items:
-- /source/ : includes all the source code of the project implementation.
-- README.md : small description of Git Repo
-
 Web application built using:
 - HTML, CSS and Javascript for the front end.
 - PHP for backend that will communicate with Firebase.
 - Google Firebase - Realtime Database used for storing data.
+
+Items:
+- /source/ : includes all the source code of the project implementation.
+- README.md : small description of Git Repo
 
 Team Members:
 - Member 1: Muhammad Ammaar Rehman 
