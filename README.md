@@ -5,7 +5,7 @@ Web application built using:
 - PHP for the back-end that will communicate with Firebase.
 - Google Firebase - Realtime Database used for storing data.
 
-Items:
+Contents:
 - /source/ : includes all the source code of the project implementation.
 - README.md : small description of Git Repo
 
