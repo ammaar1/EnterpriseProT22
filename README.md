@@ -5,14 +5,6 @@ Web application built using:
 - PHP for the back-end that will communicate with Firebase.
 - Google Firebase - Realtime Database used for storing data.
 
-Contents:
-- /source/ : includes all the source code of the project implementation.
-- PlanningT22_RevisedWithMinutes.pdf : Revised Planning document according to the new topic allocated along with the Work Alocation + Meeting Minutes of the team.
-- RequirementsT22.pdf : Requirements Specification Document.
-- DemoT22.mp4: Demo Preview Video
-- /docx/ : folder containing same documentation in Word doc format (to be used for next iteration CW2).
-- README.md : small description of Git Repo.
-
 Team Members:
 - Member 1: Muhammad Ammaar Rehman 
 UB email: m.rehman16@bradford.ac.uk 
